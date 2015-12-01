@@ -1,0 +1,8 @@
+{
+  "name": "astar",
+  "version": "0.0.1",
+  "description": "A* pathfinding algorithm",
+  "main": "src/astar.js",
+  "author": "ebenpack",
+  "license": "MIT"
+}
